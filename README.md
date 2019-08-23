@@ -30,7 +30,7 @@ Here are some **benefits** for you:
 - Exercise your HA test scenarios
 
 ## How do it do it?
-You download the package from https://github.com/saghorpa/saponazure. The package consists of the following files:
+You download the package from https://github.com/saghorpa/S4HANA-HA. The package consists of the following files:
 
 - ARM templates (JSON files)
 - ANF- An end to end comprehensive guide for S/4HANA HA deployment using ANF (pdf file)
